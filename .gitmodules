@@ -1,0 +1,6 @@
+[submodule "Editor/Gestyour"]
+	path = Editor/Gestyour
+	url = https://github.com/marcogillies/Gestyour-editor.git
+[submodule "Plugins/Gestyour"]
+	path = Plugins/Gestyour
+	url = https://github.com/marcogillies/Gestyour-plugins.git
